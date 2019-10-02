@@ -1,3 +1,5 @@
+//Yisus porque le pega a la gente, deje de montarsela...
+
 int grosor=30; // variable grosor
 int linea= 0; // forma pincelint linea= ; // forma pincel
 int color1=1; // color del pincel
